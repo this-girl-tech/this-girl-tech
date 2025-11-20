@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌸 Hi, I’m H
 
-<!--
-**this-girl-tech/this-girl-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started coding around 5–6 years ago… I’d tell you the exact year,  
+but debugging probably deleted that memory. 😭💻
 
-Here are some ideas to get you started:
+Since then, I’ve fallen in love with explaining things in a way that feels  
+simple, clear, and beginner-friendly — the way I wish someone explained them to me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I studied Computer Science, but most of my real learning came from building things,
+breaking things, and helping others understand them without confusion.
+
+### 💡 What I Care About
+- Learning in public  
+- Clear explanations  
+- Helping beginners feel confident  
+- Staying consistent and improving every day  
+
+### 🌱 My Motto  
+Code. Content. Clarity.  
+If I understand something, I explain it — simply.
+
+### 🌙 If you love learning, creating, or just improving a little each day —  
+you’ll feel at home here. 🌸
