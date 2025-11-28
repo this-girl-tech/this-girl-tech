@@ -1,7 +1,6 @@
 # 🌸 Hi, I’m H
 
-I started coding around 5–6 years ago… I’d tell you the exact year,  
-but debugging probably deleted that memory. 😭💻
+I started coding around 5–6 years ago… 💻
 
 Since then, I’ve fallen in love with explaining things in a way that feels  
 simple, clear, and beginner-friendly — the way I wish someone explained them to me.
